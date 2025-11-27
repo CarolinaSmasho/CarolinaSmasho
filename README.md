@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/CarolinaSmasho/CarolinaSmasho/blob/main/assets/banner.gif?raw=true" alt="banner" width="380"/>
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/Animated_Laptop_Banner.gif" alt="banner" width="380"/>
 
 # สวัสดีครับ ผม"ท้อด"ครับ 👋
 
