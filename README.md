@@ -15,8 +15,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2B9AEB?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔥 Current Streak & Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarolinaSmasho&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSmasho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=porameht&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porameht&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="180"/>
 
 ### 🚧 โปรเจกต์ที่กำลังทำเพื่อ Playtorium (จะอัพเดททุกสัปดาห์)
 | โปรเจกต์ | สถานะ | Tech | Live Demo |
