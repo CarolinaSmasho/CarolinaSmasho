@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/Animated_Laptop_Banner.gif" alt="banner" width="380"/>
-
 # สวัสดีครับ ผม"ท้อด"ครับ 👋
 
 🔥 กำลังเตรียมตัวเต็มสูบเพื่อไปฝึกงาน Software Developer @ Playtorium 2027
@@ -30,8 +28,3 @@
 
 <img src="https://komarev.com/ghpvc/?username=CarolinaSmasho&color=brightgreen&style=for-the-badge" alt="visitor badge"/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrLVC6GfVfjHhn6/giphy.gif" width="300"/>
-  <br/>
-  <i>พร้อมลุยเต็มที่ครับ 💪</i>
-</div>
