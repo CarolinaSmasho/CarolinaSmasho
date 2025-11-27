@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/porameht/porameht/blob/main/assets/banner.gif?raw=true" alt="banner" width="380"/>
+<img align="right" src="https://github.com/CarolinaSmasho/CarolinaSmasho/blob/main/assets/banner.gif?raw=true" alt="banner" width="380"/>
 
 # สวัสดีครับ ผม [ชื่อเล่น/ชื่อจริง] 👋
 
@@ -15,8 +15,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2B9AEB?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔥 Current Streak & Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=porameht&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porameht&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarolinaSmasho&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSmasho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="180"/>
 
 ### 🚧 โปรเจกต์ที่กำลังทำเพื่อ Playtorium (จะอัพเดททุกสัปดาห์)
 | โปรเจกต์ | สถานะ | Tech | Live Demo |
@@ -28,7 +28,7 @@
 📊 อัพเดทล่าสุด: 28 พฤศจิกายน 2568  
 ⚡ วันนี้เพิ่งเริ่ม Roadmap 90 วันเต็มตัว!
 
-<img src="https://komarev.com/ghpvc/?username=porameht&color=brightgreen&style=for-the-badge" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=CarolinaSmasho&color=brightgreen&style=for-the-badge" alt="visitor badge"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrLVC6GfVfjHhn6/giphy.gif" width="300"/>
