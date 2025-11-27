@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/CarolinaSmasho/CarolinaSmasho/blob/main/assets/banner.gif?raw=true" alt="banner" width="380"/>
 
-# สวัสดีครับ ผม [ชื่อเล่น/ชื่อจริง] 👋
+# สวัสดีครับ ผม"ท้อด"ครับ 👋
 
 🔥 กำลังเตรียมตัวเต็มสูบเพื่อไปฝึกงาน Software Developer @ Playtorium 2026  
 🚀 ทำโปรเจกต์เต็ม stack 3 ตัวภายใน 90 วัน (Playtory E-commerce, Playtorium Mini App, Dashboard)
