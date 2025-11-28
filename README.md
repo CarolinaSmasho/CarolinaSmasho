@@ -1,30 +1,30 @@
-# ผม"ท้อด"ครับ 👋
+# สวัสดีครับ ผม "ท้อด" 👋
+Software Developer Intern Candidate → **Playtorium 2026**
 
-🔥 กำลังเตรียมตัว เพื่อไปฝึกงาน Software Developer @ Playtorium 2027
-🚀 มีภารกิจที่จะทำโปรเจกต์เต็ม stack 3 ตัวภายใน 90 วัน (Playtory E-commerce, Playtorium Mini App, Dashboard)
+🔥 กำลังทำภารกิจ 90 วันเพื่อเตรียมตัวให้พร้อมที่สุดสำหรับการฝึกงาน Software Developer ที่ Playtorium  
+(เป้าหมาย: ส่ง CV + Portfolio วันที่ 27 ก.พ. 2569)
 
-### 🛠️ Tech Stack ที่กำลังฝึก/ใช้อยู่ตอนนี้
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2B9AEB?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ Core Stack ที่กำลังฝึกหนักเพื่อ Playtorium โดยตรง
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### 🔥 Current Streak & Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carolinasmasho&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinasmasho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="180"/>
+### 🚀 90-Day Playtorium Bootcamp Projects (อัพเดททุกวัน)
+| # | โปรเจกต์                            | สถานะ                  | Tech Stack                              | Live Demo / GitHub                                 |
+|---|------------------------------------|-----------------------|------------------------------------------|----------------------------------------------------|
+| 1 | **Playtory** – Board Game E-commerce | ![progress](https://progress-bar.dev/1/?title=Day%201/90&width=120) | React • NestJS • Prisma • PostgreSQL • Stripe • Docker • AWS | [Coming Feb 2026]                                 |
+| 2 | **Playtorium Mini** – Table Booking App | Planned (Day 66+)     | Flutter • Firebase • REST API             | Coming Soon                                        |
+| 3 | **Playtorium Dashboard** – Real-time Analytics | Planned (Day 81+) | React • Recharts • WebSocket • Supabase   | Coming Soon                                        |
 
-### 🚧 โปรเจกต์ที่กำลังทำเพื่อ Playtorium (จะอัพเดททุกสัปดาห์)
-| โปรเจกต์ | สถานะ | Tech | Live Demo |
-|---------|------|------|----------|
-| Playtory – Board Game E-commerce | In Progress (Day 1/90) | React + NestJS + PostgreSQL + Stripe | Coming Soon |
-| Playtorium Mini – จองโต๊ะบอร์ดเกม | Planned | Flutter + Firebase | Coming Soon |
-| Playtorium Dashboard | Planned | React + Recharts + Supabase | Coming Soon |
+> Last update: 29 พฤศจิกายน 2568 (วันนี้เพิ่งเริ่ม Day 1 เต็มตัว!)
 
-📊 อัพเดทล่าสุด: 28 พฤศจิกายน 2568  
-⚡ วันนี้เพิ่งเริ่ม Roadmap 90 วันเต็มตัว!
+### 🔥 GitHub Stats & Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carolinasmasho&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinasmasho&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="top langs" height="170"/>
 
-<img src="https://komarev.com/ghpvc/?username=CarolinaSmasho&color=brightgreen&style=for-the-badge" alt="visitor badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=carolinasmasho&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="visitor badge"/>
