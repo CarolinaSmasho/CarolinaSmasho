@@ -19,7 +19,6 @@ Software Developer Intern Candidate → **Playtorium 2026**
 |---|------------------------------------|-----------------------|------------------------------------------|----------------------------------------------------|
 | 1 | **Playtory** – Board Game E-commerce | ![progress](https://progress-bar.dev/1/?title=Day%201/90&width=120) | React • NestJS • Prisma • PostgreSQL • Stripe • Docker • AWS | [Coming Feb 2026]                                 |
 | 2 | **Playtorium Mini** – Table Booking App | Planned (Day 66+)     | Flutter • Firebase • REST API             | Coming Soon                                        |
-| 3 | **Playtorium Dashboard** – Real-time Analytics | Planned (Day 81+) | React • Recharts • WebSocket • Supabase   | Coming Soon                                        |
 
 > Last update: 29 พฤศจิกายน 2568 (วันนี้เพิ่งเริ่ม Day 1 เต็มตัว!)
 
